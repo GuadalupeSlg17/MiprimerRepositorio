@@ -1,0 +1,45 @@
+body{
+background-color: #d8cdb6;}
+
+h1{
+color: #5483a2;}
+table {
+            width: 100%;
+            border-collapse: collapse;
+            font-family: Arial, sans-serif;
+        }
+        th, td {
+            border: 3px solid #ea811d;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #e4b888;
+            font-weight: bold;
+        }
+        .header {
+            background-color: #e29f88;
+            color: #d77f00;
+            text-align: center;
+            font-size: 1.2em;
+            padding: 10px;
+        }
+		
+h2{
+	color:#4874ad
+}
+h3{
+	color:#5b71ae
+}
+h4{
+	color:#48788a
+}
+h5{
+	color:#6a8c78
+}
+h6{
+	color:#c2706d
+}
+Button{
+	color: #4567b7
+}
